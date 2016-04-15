@@ -1,0 +1,1 @@
+This the the source code to illustrate basic and bare necessory code for Spring MVC controller method returing JSON response
